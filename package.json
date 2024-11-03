@@ -1,0 +1,20 @@
+{
+  "name": "formulario-ppi",
+  "version": "1.0.0",
+  "description": "Desenvolvimento de uma aplicação web com formulario html",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaovitoor01/Formulario-PPI.git"
+  },
+  "author": "João Vitor Santos Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaovitoor01/Formulario-PPI/issues"
+  },
+  "homepage": "https://github.com/joaovitoor01/Formulario-PPI#readme"
+}
