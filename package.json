@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "Desenvolvimento de uma aplicação web com formulario html",
   "main": "index.js",
+  "type": "module",
+  
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/joaovitoor01/Formulario-PPI/issues"
   },
-  "homepage": "https://github.com/joaovitoor01/Formulario-PPI#readme"
+  "homepage": "https://github.com/joaovitoor01/Formulario-PPI#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
